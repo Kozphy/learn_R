@@ -33,7 +33,7 @@ install.packages(c("ggplot2", "reshape2", "dplyr"))
 
 If this is your first time installing a package, R will prompt you to choose an online mirror of to install from.
 
-If you want to download a newest package, try the Austria mirror first.
+If you `want to download a newest package`, `try` the `Austria mirror` first.
 
 ## Loading Packages
 

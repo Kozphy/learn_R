@@ -86,7 +86,7 @@ pip3 install -U radian
 raidan
 ```
 
-using `which radian` to see where your `radian` executable is located.
+using `which radian` to see where your `radian` executable `is located`.
 
 `Setting` following in VS Code `settings.json`  to properly `use radian as the default terminal`. If your `radian` is installed `only for user`:
 

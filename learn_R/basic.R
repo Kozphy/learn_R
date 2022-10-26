@@ -8,4 +8,14 @@ mean(MyVector)
 
 mean(My_string_vector)
 
+# the index start from 1 not 0
 MyVector[1]
+
+# default location
+setwd("/home/zixsa/learn_R/learn_R")
+load("Coronavirus_Tweets.Rdata")
+View(covid_tweets)
+
+# show partition of datafrome
+# (name of datafrome + $ + column name + row line number)
+View(covid_tweets$tweet_text[3])

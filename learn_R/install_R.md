@@ -66,7 +66,7 @@ sudo apt-get upgrade
 
 The other r-cran-* packages shipped with Ubuntu are installed into the directory `/usr/lib/R/site-library`.
 
-Installing R packages not provided with Ubuntu first requires tools to `compile the packages from source`. These tools are installed via the R development package with
+Installing R packages not provided with Ubuntu first `requires tools to compile the packages from source`. These tools are installed via the R development package with
 
 ```cmd
 sudo apt-get install r-base-dev
